@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shreyashtech7
-- 👀 I’m interested in ...Web Devlopment
-- 🌱 I’m currently learning ... Java Script
-- 💞️ I’m looking to collaborate on ... Full Stack Develpomnent
+- 👀 I’m interested in Data Aanalytics
+- 💞️ I’m looking to collaborate on ... Data Analyst
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
